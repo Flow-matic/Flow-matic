@@ -1,6 +1,6 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)]()
-# Jonathan-Vinson
 # 💫 About Me:
+<br>
 A highly motivated and detail-oriented junior blockchain developer seeking opportunities to use my skills and knowledge to create innovative solutions in the blockchain industry.
 
 Education:
