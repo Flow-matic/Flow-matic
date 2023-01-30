@@ -3,6 +3,8 @@
 <br>
 A highly motivated and detail-oriented junior blockchain developer seeking opportunities to use my skills and knowledge to create innovative solutions in the blockchain industry.
 
+<br>
+
 Education:
 
 Junior fullstack software developer Diploma with [Code Institute](https://codeinstitute.net/).
